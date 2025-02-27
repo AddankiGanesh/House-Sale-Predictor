@@ -1,4 +1,4 @@
-# Housing-price-prediction-using-Regularised-linear-regression
+# Housing-Sale-Prediction
 ###### config
 1. upload the ipynb file to Google colab
 
